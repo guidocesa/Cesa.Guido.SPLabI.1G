@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1606523780 source:d:\proyectos\c\parcial 2\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"pais.h"
+
+1606523785 source:d:\proyectos\c\parcial 2\parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606523808 d:\proyectos\c\parcial 2\parcial2\linkedlist.h
+
+1606521431 source:d:\proyectos\c\parcial 2\parcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+	<string.h>
+
+1606523780 source:d:\proyectos\c\parcial 2\parcial2\pais.c
+	"pais.h"
+	<stdlib.h>
+	<string.h>
+
+1606523780 d:\proyectos\c\parcial 2\parcial2\pais.h
+
+1606522882 source:d:\proyectos\c\parcial 2\parcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"pais.h"
+	"LinkedList.h"
+	<string.h>
+
+1606520527 d:\proyectos\c\parcial 2\parcial2\parser.h
+	"LinkedList.h"
+
+1606523873 d:\proyectos\c\parcial 2\parcial2\controller.h
+	"pais.h"
+
